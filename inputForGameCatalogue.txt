@@ -1,0 +1,7 @@
+Gloomhaven	12 100 1 4 60 120
+Scythe		14 100 1 5 90 115
+Eclipse 	14 100 2 6 60 180
+Clayus		12 100 2 5 60 150
+Anachrony	15 100 1 4 30 130
+Concordia	13 100 2 5 90 100
+Agricola	12 100 1 5 30 150
